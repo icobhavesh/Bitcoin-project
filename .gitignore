@@ -1,0 +1,33 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+src/Coingeko/CoinDetails.jsx
+src/Coingeko/CoinCard.jsx
+src/Coingeko/Navbar_1.jsx
+src/Coingeko/Hero.jsx
+src/components/CoinCard.jsx
+src/components/Exchange.jsx
+src/components/Home.jsx
+src/components/Coins.jsx
+src/components/Navbar..jsx
