@@ -3,7 +3,7 @@ import { Line } from 'react-chartjs-2';
 import axios from 'axios';
 import { useParams } from 'react-router-dom';
 
-const HistoryChart = () => {
+const HistoryCharts = () => {
     const [chartData, setChartData] = useState({});
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState(false);
