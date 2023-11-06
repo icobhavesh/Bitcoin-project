@@ -1,7 +1,4 @@
 
-
-
-
 import React from 'react'
 import { BiTrendingDown } from "react-icons/bi"
 import { HiTrendingUp } from "react-icons/hi"
